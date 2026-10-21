@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch==1.12.1+cu116
+torchvision==0.13.1+cu116
+numpy==1.23.5
+timm==0.5.4
+tensorboard==2.14.0
+tqdm==4.66.2
+opencv-python==4.9.0.80
+Pillow==10.4.0
+matplotlib==3.7.5
+imageio==2.35.1
+scipy==1.10.0
